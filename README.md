@@ -23,8 +23,8 @@ Instructions:
 6. The boosters will automatically land either on the pad or somewhere random. Probably the ocean
 
 MechJeb Ascent Settings:
-Alt:10Km
-Velocity: 70.2
+Turn Start: 10KM
+Turn Start Velocity: 100m/s
 Final Path Angle: 5
 Turn Shape: 100%
 
