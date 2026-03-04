@@ -17,10 +17,16 @@ These scripts are provided as-is for experimentation and personal use.
 Instructions:
 1. Download the Script Folder and replace it with your current one. (If you dont want to you can also move the contents inside manually)
 2. Turn on MechJeb2 Ascent Guidance
-3. Set AP to 150 and degree to 0. Let it run
+3. Set AP to 150 and degree to 0. Update Ascebnt path. Let it run
 4. Once it hits about 60km. Seperate.
 5. Wait 3 seconds and gently boost away from boosters.
 6. The boosters will automatically land either on the pad or somewhere random. Probably the ocean
+
+MechJeb Ascent Settings:
+Alt:10Km
+Velocity: 70.2
+Final Path Angle: 5
+Turn Shape: 100%
 
 "<---" Means its necessary
 Mod List:
