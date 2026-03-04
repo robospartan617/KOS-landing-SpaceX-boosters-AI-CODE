@@ -1,4 +1,4 @@
-This repository contains kOS scripts developed for use in Kerbal Space Program. The code here was created through a combination of original work, experimentation, and adaptation of existing ideas from the broader kOS and Kerbal Space Program communities.
+Most of this does't work btw. This repository contains kOS scripts developed for use in Kerbal Space Program. The code here was created through a combination of original work, experimentation, and adaptation of existing ideas from the broader kOS and Kerbal Space Program communities.
 
 Portions of the code were generated or assisted by AI tools and then modified or integrated into working scripts. In addition, some logic and structural elements were inspired by publicly shared examples, tutorials, forum discussions, and community scripts. These sources were used as starting points or references and were often adapted, simplified, or extended to fit specific vehicles or mission profiles.
 
