@@ -94,3 +94,11 @@ Mod List:
 62. Firefly
 63. B9 Part Switch           <----
 64. There more but im too lazy to write the rest.
+
+
+
+
+
+The self-calibration in lz_cal.json will keep improving accuracy over successive launches, so the more runs you do the tighter the landing gets. If you ever change your rocket design significantly (different fuel load, engine count, or staging altitude) you should delete lz_cal.json so it starts fresh rather than applying corrections tuned for the old vehicle.
+The shipACD * 0.08 drag coefficient in IntegLand is still a rough estimate — if you ever find the suicide burn is consistently starting too early or too late you can tune that value up or down in GNC.ks.
+Good luck with the rest of the mission! 
