@@ -1,0 +1,9 @@
+Yes — the handoff condition from the suicide burn to Land(). Currently it's:
+alt < 3000 AND speed < 200 m/s
+
+Change the 200 to 150 or even 120. The suicide burn will keep decelerating longer before handing off, so Land() starts with less velocity to bleed. Since LandThrottle is exact physics, it'll handle whatever speed it receives — just means less work left to do.Ran 3 commands, read a file. Changed 200 → 180 m/s. That's exactly 20 m/s slower at handoff, so Land() starts with less to bleed. If you want more just tell me the number — it's a single value. Going much below 150 though starts eating into fuel reserves for Land(), so I'd stay in the 150-180 range.
+
+
+ctrl+f: // Suicide burn loop — LandThrottle() runs live every tick.
+    // Hand off to Land() when below 3000m AND speed under 200 m/s,
+    // or hard floor at 500m regardless of speed.

@@ -1,0 +1,45 @@
+{
+    "entries": [
+        {
+            "value": "errLat",
+            "$type": "kOS.Safe.Encapsulation.StringValue"
+        },
+        {
+            "value": -2.1993703346449518,
+            "$type": "kOS.Safe.Encapsulation.ScalarDoubleValue"
+        },
+        {
+            "value": "errLng",
+            "$type": "kOS.Safe.Encapsulation.StringValue"
+        },
+        {
+            "value": -44.129916849883074,
+            "$type": "kOS.Safe.Encapsulation.ScalarDoubleValue"
+        },
+        {
+            "value": "runs",
+            "$type": "kOS.Safe.Encapsulation.StringValue"
+        },
+        {
+            "value": 36,
+            "$type": "kOS.Safe.Encapsulation.ScalarIntValue"
+        },
+        {
+            "value": "lastLat",
+            "$type": "kOS.Safe.Encapsulation.StringValue"
+        },
+        {
+            "value": -0.1201987604038571,
+            "$type": "kOS.Safe.Encapsulation.ScalarDoubleValue"
+        },
+        {
+            "value": "lastLng",
+            "$type": "kOS.Safe.Encapsulation.StringValue"
+        },
+        {
+            "value": -62.116704655210114,
+            "$type": "kOS.Safe.Encapsulation.ScalarDoubleValue"
+        }
+    ],
+    "$type": "kOS.Safe.Encapsulation.Lexicon"
+}
