@@ -17,16 +17,16 @@ These scripts are provided as-is for experimentation and personal use.
 Instructions:
 1. Download the Script Folder and replace it with your current one. (If you dont want to you can also move the contents inside manually)
 2. Turn on MechJeb2 Ascent Guidance
-3. Set AP to 150 and degree to 0. Update Ascebnt path. Let it run
-4. Once it hits about 60km. Seperate.
+3. Set AP to 100 and degree to 0. Update Ascent path. Let it run
+4. Once it hits 57km. Seperate.
 5. Wait 3 seconds and gently boost away from boosters.
-6. The boosters will automatically land either on the pad or somewhere random. Probably the ocean
+6. The boosters will automatically land in the ocean. Feel free to add some land underneath with kerbal konstructs mod.
 
 MechJeb Ascent Settings:
-Turn Start: 10KM
+Turn Start: 13KM
 Turn Start Velocity: 100m/s
-Final Path Angle: 5
-Turn Shape: 100%
+Final Path Angle: 20
+Turn Shape: 75%
 
 "<---" Means its necessary
 Mod List:
