@@ -23,8 +23,10 @@ Instructions:
 6. The boosters will automatically land in the ocean. Feel free to add some land underneath with kerbal konstructs mod.
 
 MechJeb Ascent Settings:
+AP to 100km
 Turn Start: 13KM
 Turn Start Velocity: 100m/s
+Turn End Alt:75Km
 Final Path Angle: 20
 Turn Shape: 75%
 
